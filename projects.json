@@ -1,0 +1,82 @@
+[
+  {
+    "title": "AIR JORDAN / MOTION STUDY",
+    "category": "Graphic Design",
+    "year": "2026",
+    "image": "assets/jordan.webp",
+    "desc": "A bold basketball poster study built around repetition, scale and a strong central silhouette.",
+    "wide": false
+  },
+  {
+    "title": "KALRATRI",
+    "category": "Cultural Poster",
+    "year": "2026",
+    "image": "assets/kalratri.webp",
+    "desc": "A dark editorial interpretation of Navratri, mixing devotional imagery with distressed print textures.",
+    "wide": false
+  },
+  {
+    "title": "MEET & GREET",
+    "category": "Event Identity",
+    "year": "2026",
+    "image": "assets/meet-greet.webp",
+    "desc": "Visual identity for a campus freshers meet-up using a monochrome blue treatment and playful typography.",
+    "wide": false
+  },
+  {
+    "title": "NAVRATRI \u2014 NINE NIGHTS",
+    "category": "Cultural Poster",
+    "year": "2026",
+    "image": "assets/navratri.webp",
+    "desc": "A vibrant festival poster exploring mythology, movement and neon editorial color.",
+    "wide": false
+  },
+  {
+    "title": "NIKE FANMADE / AIR",
+    "category": "Graphic Design",
+    "year": "2026",
+    "image": "assets/nike-fanmade.webp",
+    "desc": "A commercial-style sneaker composition built around oversized type and high-contrast color blocking.",
+    "wide": false
+  },
+  {
+    "title": "BOMBING WORLD",
+    "category": "Experimental Art",
+    "year": "2026",
+    "image": "assets/bombing-world.webp",
+    "desc": "A surreal visual experiment pairing a vintage lifestyle scene with an apocalyptic landscape.",
+    "wide": false
+  },
+  {
+    "title": "WE ARE HIRING",
+    "category": "Event Identity",
+    "year": "2026",
+    "image": "assets/we-are-hiring.webp",
+    "desc": "A playful recruitment poster for a creative and technical campus team.",
+    "wide": false
+  },
+  {
+    "title": "PROMPT BATTLE",
+    "category": "Event Identity",
+    "year": "2026",
+    "image": "assets/prompt-battle.webp",
+    "desc": "A glitchy editorial poster for a creativity and AI-focused campus event.",
+    "wide": false
+  },
+  {
+    "title": "HACKER RANK \u2014 CERTIFICATE",
+    "category": "Certificate Design",
+    "year": "2026",
+    "image": "assets/hacker-rank-certificate.webp",
+    "desc": "A bold certificate system using comic-book inspired shapes, yellow, blue and black.",
+    "wide": true
+  },
+  {
+    "title": "FINTECH INNOVATE \u2014 CERTIFICATE",
+    "category": "Certificate Design",
+    "year": "2026",
+    "image": "assets/fintech-certificate.webp",
+    "desc": "A monochrome technology-inspired certificate with an illustrated border system.",
+    "wide": true
+  }
+]
