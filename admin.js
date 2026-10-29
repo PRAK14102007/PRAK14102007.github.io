@@ -1,5 +1,5 @@
 const cfg=window.SITE_CONFIG||{};
-const OWNER_EMAIL='prakharkumarpandey933@gmail.com';
+const OWNER_EMAIL='prakahrkuamrpandey933@gmail.com';
 const ready=cfg.supabaseUrl&&!cfg.supabaseUrl.includes('PASTE_')&&cfg.supabaseKey&&!cfg.supabaseKey.includes('PASTE_');
 const client=ready?window.supabase.createClient(cfg.supabaseUrl,cfg.supabaseKey):null;
 const loginCard=document.getElementById('loginCard'),dashboard=document.getElementById('dashboard'),loginForm=document.getElementById('loginForm'),loginMessage=document.getElementById('loginMessage'),projectForm=document.getElementById('projectForm'),projectMessage=document.getElementById('projectMessage'),adminList=document.getElementById('adminList');
